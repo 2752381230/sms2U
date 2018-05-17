@@ -1,3 +1,8 @@
+This resp from: https://github.com/autosquid/Clean-SmS-Forwarding
+Thanks 
+
+
+
 # SMS Forward
 ## Introduction
 
