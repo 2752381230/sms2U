@@ -1,4 +1,4 @@
-#Notice:
+# Notice:
     <font color=#FF0000>mSimSlotIndex：卡槽序号，从0开始，最大为1；即实际中slot=0表示卡1，slot=1表示卡2；</font>
 
 
