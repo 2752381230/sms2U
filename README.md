@@ -1,6 +1,8 @@
 # Notice:
-    <font color=#FF0000>mSimSlotIndex：卡槽序号，从0开始，最大为1；即实际中slot=0表示卡1，slot=1表示卡2；</font>
 
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `mSimSlotIndex：卡槽序号{0,1}；即slot=0表示卡1，slot=1表示卡2`
+
+# From
 
 This resp from: https://github.com/autosquid/Clean-SmS-Forwarding
 Thanks 
